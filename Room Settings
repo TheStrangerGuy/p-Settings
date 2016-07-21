@@ -1,0 +1,41 @@
+{
+    "author": "TheStrangerGuy",
+    "colors": {
+        "background": "",
+        "chat": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "#CD5555",
+            "cohost": "#008B8B",
+            "residentdj": "#FFA54F",
+            "host": "#008B8B",
+            "manager": "#90EE90"
+        },
+        "footer": "",
+        "header": ""
+    },
+    "css": {
+        "font": [],
+        "import": [],
+        "rule": {}
+    },
+    "images": {
+        "background": "",
+        "booth": "",
+        "icons": {
+            "admin": "",
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": ""
+        },
+        "playback": ""
+    },
+    "rules": {
+        "allowAutojoin": "true",
+        "allowAutorespond": "true",
+        "allowAutowoot": "true"
+    }
+}
